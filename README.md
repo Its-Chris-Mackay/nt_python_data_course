@@ -1,7 +1,7 @@
 # Repository for NT Intro to Python Course #
  Welcome to my repository that contains the material for the course.
  
- ![funny_picture] (https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif)
+![Funny Image](https://media.giphy.com/media/xT5LMWNOjGqJzUfyve/giphy.gif)
  
  ## Outline for the course ##
  
